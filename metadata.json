@@ -1,0 +1,6 @@
+{
+  "name": "PathMatch",
+  "description": "Dışarıda Arama, İçeriden Yükselt. Şirketinizin içindeki gizli yetenek potansiyelini açığa çıkaran akıllı kariyer eşleştirme platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
